@@ -1,0 +1,19 @@
+.feed{
+    margin-top: 20px;
+    border-top:1px solid whitesmoke;
+    padding-top: 10px;
+}
+.feed-header{
+    display: flex;
+    align-items: center;
+}
+.feed-title{
+    margin-left:5px;
+}
+.feed-description{
+    color:grey;
+    margin-left: 5px;
+}
+.message{
+    margin-left: 42px;
+}

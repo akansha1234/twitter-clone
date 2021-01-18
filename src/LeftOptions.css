@@ -1,0 +1,16 @@
+.left-options{
+    display: flex;
+    align-items: stretch;
+    justify-content: center;
+    cursor: pointer;
+    padding: 15px;
+}
+.left-options:hover{
+    border-radius: 20px;
+    padding:15px;
+    color:#5DADE2;
+    background-color: #D6EAF8;
+}
+.headeroption-title{
+    margin-left:10px;
+}

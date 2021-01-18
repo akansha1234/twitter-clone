@@ -1,0 +1,13 @@
+.headerIcon{
+    margin-left:5px;
+    display: flex;
+    justify-content: space-evenly;
+    padding:10px;
+}
+.headerIcon:hover{
+    color: #5DADE2;
+    background-color: #D6EAF8;
+    cursor:pointer;
+    border-radius:100px;
+    padding:10px;
+}
